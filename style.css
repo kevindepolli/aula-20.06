@@ -13,6 +13,10 @@
     background-color: blue;
 }
 
+.a:hover {
+    background-color: rgb(255,255,2,0.5);
+}
+
 .b {
     position: absolute;
     left: 115px;
